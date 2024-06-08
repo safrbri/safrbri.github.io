@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://safrbri.github.io/sitemap/sitemap.txt
